@@ -1,2 +1,2 @@
-# Project
+# Projects
 Web Development
